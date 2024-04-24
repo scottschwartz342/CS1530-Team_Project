@@ -25,6 +25,4 @@ public class Game {
         inProgressChallenges = new ArrayList<>();
         completedChallenges = new ArrayList<>();
     }
-
-    
 }
