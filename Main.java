@@ -18,14 +18,14 @@ class Main {
       String name = myScanner.nextLine();
       Educator user = new Educator(name);
 
-      System.out.println("Please select the task you wish to work on:\n1. Assign coding challenge");
+      System.out.println("Please select the task you wish to work on:\n[1] Assign coding challenge");
       input = myScanner.nextInt();
       if (input == 1)
       {
         user.assignCodingChallenge();
       }
       else {
-        
+
       }
     }
   }
