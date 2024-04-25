@@ -25,7 +25,7 @@ class Main {
         user.assignCodingChallenge();
       }
       else {
-
+            
       }
     }
   }
